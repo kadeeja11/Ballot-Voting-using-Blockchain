@@ -11,3 +11,4 @@ Now, all accounts are eligible to vote,
 Now, choose one account, next to vote, give index such that, 1st candidate will have index 0, 2nd candidate will have 1, and so on.
 now click candidatewinner to see the index no of the winner, and candidatename to see the winner's name in bytes32 format, parse it to string, to see their name in 
 english language
+For more clear understanding, watch this video : https://drive.google.com/drive/folders/1X2_Uc8S1clKge8QlYnAtlDsNr2_RWexf
